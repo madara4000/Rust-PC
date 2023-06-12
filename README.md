@@ -15,10 +15,11 @@ passo a passo para instalção do Kernel
 9. shahin$ jupyter lab //verifica se o jupyter lab está instalado
 10. execute no terminal conda install -c conda-forge jupyterlab
 11.  execute no terminal  conda install -c anaconda cmake -y
-12.  execute no terminal  jupyter labextension install jupyterlab-plotly
-13. execute no terminal  jupyter labextension install @shahinrostami/theme-purple-please
-14. cargo install evcxr_jupyter --version 
-15. evcxr_jupyter --install
-16. jupyter notebook
-17.  vai nas pastas baixadas dentro do jupyter
+12.  conda install -c conda-forge nodejs=15 -y
+13.  execute no terminal  jupyter labextension install jupyterlab-plotly
+14. execute no terminal  jupyter labextension install @shahinrostami/theme-purple-please
+15. cargo install evcxr_jupyter --version 
+16. evcxr_jupyter --install
+17. jupyter notebook
+18.  vai nas pastas baixadas dentro do jupyter
 
