@@ -2,10 +2,12 @@
 //=comentarios
 baixar esse arquivo e descompactar ou dar git clone pelo git 
 passo a passo para instalção do Kernel
-1. instalar o mini conda ou anaconda 
+ baixar jupyter notebook
+0. instalar pithon e baixar jupyter por ele
+1. instalar o mini conda ou anaconda //https://docs.conda.io/en/latest/miniconda.html ou https://www.anaconda.com/download
 2. adicionar o conda ao Path( nas variaveis de ambiente)
-3. baixar e instalar rust na maquina passo a passo abaixo
-4. instalar nodeJS
+3. baixar e instalar rust na maquina passo a passo abaixo//https://www.rust-lang.org/learn/get-started
+4. instalar nodeJS //https://nodejs.org/en/download
 5. adicionar cargo no PATH(variaveis de ambiente)
 6. conda create -n name  //name é um nome a escolha só não esqueçam ele pois ele será onde será instalado kernel do jupyter para ser compativel com Rust
 7. conda activate name 
@@ -18,5 +20,5 @@ passo a passo para instalção do Kernel
 14. cargo install evcxr_jupyter --version 
 15. evcxr_jupyter --install
 16. jupyter notebook
-17.  vai nas pastas baixadas
+17.  vai nas pastas baixadas dentro do jupyter
 
