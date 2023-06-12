@@ -12,7 +12,7 @@ passo a passo para instalção do Kernel
 6. conda create -n name  //name é um nome a escolha só não esqueçam ele pois ele será onde será instalado kernel do jupyter para ser compativel com Rust
 7. conda activate name 
 8.  shahin$ // comando para ver se existe
-9.  jupyter lab //verifica se o jupyter lab está instalado
+9. shahin$ jupyter lab //verifica se o jupyter lab está instalado
 10. execute no terminal conda install -c conda-forge jupyterlab
 11.  execute no terminal  conda install -c anaconda cmake -y
 12.  execute no terminal  jupyter labextension install jupyterlab-plotly
