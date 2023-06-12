@@ -1,5 +1,6 @@
 # Rust-PC
 //=comentarios
+baixar esse arquivo e descompactar ou dar git clone pelo git 
 passo a passo para instalção do Kernel
 1. instalar o mini conda ou anaconda 
 2. adicionar o conda ao Path nas variaveis de ambiente
@@ -16,4 +17,6 @@ passo a passo para instalção do Kernel
 13. execute no terminal  jupyter labextension install @shahinrostami/theme-purple-please
 14. cargo install evcxr_jupyter --version 
 15. evcxr_jupyter --install
+16. jupyter notebook
+17.  vai nas pastas baixadas
 
